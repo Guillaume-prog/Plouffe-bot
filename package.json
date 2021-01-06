@@ -1,0 +1,17 @@
+{
+  "name": "plouffe",
+  "version": "1.0.0",
+  "description": "Chuck Norris with Plouffe",
+  "main": "index.js",
+  "scripts": {
+    "test": ".help"
+  },
+  "keywords": [],
+  "author": "Laurent Jomisu",
+  "license": "ISC",
+  "dependencies": {
+    "chucknorris-io": "^1.0.5",
+    "cron": "^1.8.2",
+    "discord.js": "^12.4.0"
+  }
+}
